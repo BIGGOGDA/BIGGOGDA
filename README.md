@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @BIGGOGDA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--
+New guy who is learning C 
+a rhythnm game liker 
+greatly fond of 4k&7k from osu mania or malody 
+
 
 <!---
 BIGGOGDA/BIGGOGDA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
