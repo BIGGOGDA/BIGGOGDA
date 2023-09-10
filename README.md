@@ -1,4 +1,5 @@
-New guy who is learning C 
+New guy who is learning C plusplus
+freshman
 a rhythnm game liker 
 greatly fond of 4k&7k from osu mania or malody 
 
