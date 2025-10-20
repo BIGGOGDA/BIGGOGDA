@@ -1,5 +1,6 @@
+a learner of object detection、multimodal fusion（rgbd/rgbt） object detection/ semantic segmentation 
 a rhythnm game lover
-greatly fond of 4k&7k from osu mania or malody 
+
 
 
 <!---
